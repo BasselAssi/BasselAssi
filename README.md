@@ -7,7 +7,7 @@
     
 - <b>Design systems using OOP techniques, Modeling with UML diagrams, Evaluate design quality,Apply and analyze design patterns, Understand the challenges of software architecture </b>
   - [Modeling & Analysis](https://github.com/BasselAssi/Software-analysis-and-design/tree/main/TP2)
-  - [Design patterns]([https://github.com/BasselAssi/Green_Sharing](https://github.com/BasselAssi/Software-analysis-and-design/tree/main/TP3))
+  - [Design patterns](https://github.com/BasselAssi/Software-analysis-and-design/tree/main/TP3)
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
