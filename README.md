@@ -14,7 +14,7 @@
 [linkedin]: https://www.linkedin.com/in/bassel-assi/
 
 <!--
-**BasselAssi/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BasselAssi/BasselAssi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
