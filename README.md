@@ -4,6 +4,10 @@
 
 - <b>Earth Day Canada - Morgan Stanley’s Code to Give (Hackathon)</b>
   - [Green Sharing app](https://github.com/BasselAssi/Green_Sharing)
+    
+- <b>Design systems using OOP techniques, Modeling with UML diagrams, Evaluate design quality,Apply and analyze design patterns, Understand the challenges of software architecture - UDEM </b>
+  - [Modeling & Analysis](https://github.com/BasselAssi/Green_Sharing)
+  - [Design patterns](https://github.com/BasselAssi/Green_Sharing)
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
