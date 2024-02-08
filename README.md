@@ -9,9 +9,9 @@
   - [Modeling & Analysis](https://github.com/BasselAssi/Software-analysis-and-design/tree/main/TP2)
   - [Design patterns](https://github.com/BasselAssi/Software-analysis-and-design/tree/main/TP3)
 
---!>
+<!--
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
-<--
+-->
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BasselAssi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
