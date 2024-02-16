@@ -4,6 +4,7 @@
 
 - <b>Model View Controller</b>
   - [MVC](https://github.com/BasselAssi/Model-View-Controller)
+  - [Fish Hunt game](https://github.com/BasselAssi/Fish-Hunt-Game)
 
 - <b>Earth Day Canada - Morgan Stanley’s Code to Give (Hackathon)</b>
   - [Green Sharing app](https://github.com/BasselAssi/Green_Sharing)
